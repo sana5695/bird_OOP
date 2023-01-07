@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(128, 181, 255);
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    margin: 0 auto;
+    width: 431px;
+}
+
+h1 {
+
+    color: aliceblue;
+    text-shadow: 2px 2px #4b6074;
+
+    -ms-user-select: none;
+
+    -moz-user-select: none;
+
+    -khtml-user-select: none;
+
+    -webkit-user-select: none;
+
+    user-select: none;
+}
